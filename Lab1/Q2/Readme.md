@@ -1,4 +1,4 @@
 ### How to run
-* lex q1.l
+* lex q2.l
 * cc lex.yy.c -ll
-* ./a.out file.c
+* ./a.out file.txt
