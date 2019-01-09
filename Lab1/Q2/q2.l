@@ -21,6 +21,7 @@ void main(int argc,char *argv[])
  printf("no. of positive integer %d \n",pi);
  printf("no. of negative integer %d \n",ni);
  printf("no. of positive fraction %d \n",pf);
+ printf("no. of negative fraction %d \n",nf);
 }
 
 int yywrap()
