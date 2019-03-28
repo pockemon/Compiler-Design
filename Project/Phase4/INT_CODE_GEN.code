@@ -1,0 +1,10 @@
+0:> change:
+1:> t0 = 2 + 3
+2:> t1 = 4 / 9
+3:> t2 = t0 + t1
+4:> t3 = t2 - 1
+5:> a = t3
+6:> main:
+7:> j = 9
+8:> function call change
+9:> exit
