@@ -1,0 +1,15 @@
+
+
+enum constants
+{
+  HEX_CONSTANT=400,
+  DEC_CONSTANT,
+  FLOAT_CONSTANT,
+  HEADER_FILE,
+  STRING
+};
+
+enum IDENTIFIER
+{
+  IDENTIFIER=500
+};
